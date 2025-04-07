@@ -1,2 +1,2 @@
 
-![Save the Date](MLY_poster_QRREC.png)
+<img src="MLY_poster_QRREC.png" width="50%">
